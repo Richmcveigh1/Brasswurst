@@ -1,0 +1,38 @@
+
+
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(70, 133, 70);
+}
+
+
+.header {
+    margin: 0 auto;
+    display: block;
+    color: blue
+}
+header {
+    color:brown
+}
+
+h2 {
+    
+}
+img { margin: 0 auto;
+    display: block
+    
+}
+
+#Butlins {
+    max-width: 40%;
+    max-height: 40%;
+    border-radius: 40px
+
+}
+
+#showreel {
+    font-size:x-large 400;
+}
